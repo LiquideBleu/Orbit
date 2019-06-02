@@ -7,4 +7,5 @@ This addon is just to simplify and speed up workflow, sometimes I need to switch
 
 
 
-Twitter: https://twitter.com/bleu_liquide
+Twitter:  https://twitter.com/bleu_liquide
+Mastodon: mastodon.social/@LiquideBleu 
