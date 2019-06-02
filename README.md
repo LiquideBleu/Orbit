@@ -5,3 +5,6 @@ This addon is just to simplify and speed up workflow, sometimes I need to switch
 
 ![alt text](https://i.imgur.com/NNKI32L.png)
 
+
+
+Twitter: https://twitter.com/bleu_liquide
