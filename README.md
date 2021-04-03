@@ -13,4 +13,8 @@ Twitter:  https://twitter.com/bleu_liquide
 Mastodon: mastodon.social/@LiquideBleu 
 
 
+**/!\ Do not install via the zip file /!\\  
+Unzip the archive and install the orbit.py file only**
+
+
 Do not hesitate to fork, change, playing and ameliorate the code ! :)
